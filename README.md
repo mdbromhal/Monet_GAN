@@ -1,6 +1,8 @@
 # Monet_GAN
  ABSTRACT: Paint Like Monet: Two-Objective Discriminator GAN to Mimic Monet’s Painting Style
  
+ [ipynb file in this repo](https://github.com/mdbromhal/Monet_GAN/blob/f65547bac13b8c669b75d43148ef95259103e371/MB_I'mSomethingOfAPainterMyself-two-objective-discriminator-copy.ipynb)
+ 
 ## Sources:
 - Based on Kaggle Competition: I'm Something of a Painter Myself (https://www.kaggle.com/competitions/gan-getting-started/overview) 
 - Baseline file copied in Feb. 2024 from Saravana Kumar, which was copied from UnfriendlyAI
