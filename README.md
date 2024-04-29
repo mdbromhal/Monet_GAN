@@ -25,7 +25,7 @@ Landscape photograph:
 
 Example from kaggle competition submission:
 
-![results example](https://github.com/mdbromhal/Monet_GAN/blob/3429964ecbe36662b6c1df88a09ae04204fc0a43/Screen%20Shot%202024-04-29%20at%201.51.32%20PM.png)
+![results example](https://github.com/mdbromhal/Monet_GAN/blob/2235ce904cc4b223c6ab1c98713e7d96681b3828/results_screenshot)
 
 ## Poster Presentation
 ![poster photo](https://github.com/mdbromhal/Monet_GAN/blob/51c378b8cd963e4765a139404fb1451a314e8e50/Megdalia_MonetGAN_poster.png)
